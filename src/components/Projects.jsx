@@ -5,7 +5,7 @@ import ProjectBlock from "./ProjectBlock";
 const Projects = () => {
     const mediProject = {
         title: 'Meditation project',
-        image: "/assets/photos/mediproject.png",
+        image: "/assets/photos/medi.png",
         href: 'https://segaoneboy.github.io/MEDI/',
     }
     const smartTownProject = {
